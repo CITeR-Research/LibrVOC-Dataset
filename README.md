@@ -3,3 +3,7 @@ LibriVoc is a new open-source, large-scale dataset for vocoder artifact detectio
 
 Details can be found here:
 https://github.com/csun22/LibriVoc-Dataset 
+
+CITeR Project:  
+A benchmark dataset for neural vocoder identification	22S-01B	
+Siwei Lyu (UB), David Doermann, and Srirangaraj Setlur (UB)
